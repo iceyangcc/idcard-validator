@@ -1,4 +1,4 @@
-# idCardCheck
+# idCardValidator 
 
 这是我的项目中使用的身份证号码强校验的代码
 es6导出
