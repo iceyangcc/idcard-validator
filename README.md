@@ -7,7 +7,7 @@ es6导出
 * 二代身份证 18位
 * 一代身份证 15位
 
-### ES6使用方法
+### ES6使用方法 (推荐)
 /**
  *ES6 usage
  *IDValidator.isValid(idCard)

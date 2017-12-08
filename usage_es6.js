@@ -1,6 +1,6 @@
 
 /**
- * ES6使用指南
+ * ES6使用指南 (推荐)
  * IDValidator.isValid(idCard)
  */
 

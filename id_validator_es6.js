@@ -3810,3 +3810,6 @@ export {
   _impl as
   default, IDValidator, GB2260
 }
+/**
+ * 如果你使用了其他模块化规范, 请修改导出方式
+ */
